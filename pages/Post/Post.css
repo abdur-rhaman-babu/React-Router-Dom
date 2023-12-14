@@ -1,0 +1,9 @@
+.post-content{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:10px;
+}
+
+.post-card{
+    border:1px solid #000;
+}
